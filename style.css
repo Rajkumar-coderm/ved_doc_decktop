@@ -84,7 +84,7 @@
 }
 
 .intro{
-    padding-top: 8rem;
+    padding-top: 6rem;
 }
 
 .intro h1{
@@ -93,6 +93,7 @@
     font-weight: 600;
     line-height: 1rem;
     color: #FFFFFF;
+    padding: 0.9rem;
 }
 
 .info-about{
