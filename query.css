@@ -1,0 +1,565 @@
+@media(max-width:81.25rem){
+    .img-lang{
+        gap: 6rem;
+    }
+
+    .main-nav-bar{
+        padding: 1rem 2.4rem;
+    }
+    .look-main h2{
+        padding: 3rem 0 1rem 5rem;
+        font-size: 2rem;
+    }
+
+    .need-doctor-main h2{
+        font-size: 2rem;
+    }
+
+    .how-work-main h2{
+        font-size: 2.2rem;
+    }
+
+    .work-main img{
+        height: 6rem;
+    }
+
+    .main-p1{
+        font-size: 1.2rem;
+    }
+
+    .main-p2{
+        font-size: 1rem;
+    }
+
+    .hr-1{
+        width: 16%;
+        margin-left: 18%;
+    }
+
+    .hr-2{
+        width: 19%;
+        margin-left: 10%;
+    }
+
+    .row-icon , .row-icon-2{
+        width: 2rem;
+        height: 2rem;
+        color: #CECECE;
+    }
+
+    .row-icon{
+        left: 34%;
+        top: 21%;
+    }
+
+    .customer-main h2{
+        font-family: 'Open Sans', sans-serif;
+        font-size: 1.6rem;
+        /* white-space: nowrap; */
+    }
+
+    .main-icon .icon{
+        height: 1.3rem;
+        width: 1.3rem;
+    }
+    .customer-main{
+        margin-left: 10rem;
+        margin-right: 10rem;
+    }
+
+    .customer-1,.customer-3{
+        width: 13rem;
+    }
+    .customer-2{
+        width: 15rem;
+        margin-left: 3rem;
+    }
+
+    .policies{
+        gap: 1rem;
+    }
+
+    .main-media{
+        margin: 0.5rem -10rem  0 -10rem;
+        padding: 0 10rem 3rem 10rem;
+    }
+
+    .customer-1{
+        margin-right: 5rem;
+    }
+    
+    .customer-3{
+        margin-left: 2rem;
+    }
+
+    .second-cus{
+        font-size: 1rem !important;
+    }
+
+    .policies p{
+        white-space: nowrap;
+    }
+
+    .more-name-1-3 p{
+        /* background-color: red; */
+        font-size: 0.6rem;
+    }
+
+}
+
+@media(max-width:68.75rem){
+    .img-lang{
+        gap: 4rem;
+    }
+    .main-nav-bar{
+        padding: 1rem 2.4rem;
+    }
+}
+
+@media(max-width:62.5rem){
+    .img-lang{
+        gap: 4rem;
+    }
+    .main-nav-bar{
+        padding: 1rem 2.4rem;
+    }
+
+    .customer-main{
+        margin-left: 10rem;
+        margin-right: 10rem;
+    }
+
+    .customer-1{
+        width: 10rem;
+    }
+    .customer-2{
+        width: 12rem;
+        margin-left: 3rem;
+    }
+    .customer-3{
+        width: 11rem;
+    }
+
+    .second-cus{
+        font-size: 0.7rem !important;
+    }
+
+    .name-customer p{
+        font-size: 0.8rem;
+        white-space: nowrap;
+    }
+
+    .back,
+    .forward{
+        width: 0.8rem;
+        height: 0.8rem;
+    }
+
+    .name-icon-star{
+        height: 0.8rem;
+        width: 0.8rem;
+    }
+
+
+    .main-footer{
+        padding: 0rem 10rem 0 6rem
+        
+    }
+
+    .policies{
+        gap: 0;
+    }
+    .logo-policies{
+        padding-bottom: 2rem;
+    }
+
+    .main-media{
+        gap: 17rem;
+    }
+}
+
+@media(max-width:56.25rem){
+    .img-lang{
+        gap: 4rem;
+    }
+    .seclect-lang{
+        font-size: 0.9rem;
+        width: 10rem;
+        border-radius: 0;
+    }
+    .language-sel{
+        font-size: 1.2rem;
+    }
+    .main-nav-bar{
+        padding: 1rem 2.4rem;
+    }
+    .intro h1{
+        font-size: 2.7rem;
+    }
+
+    .look-home-btn h4{
+        font-size: 1.3rem;
+    }
+
+    .tritment-doc p{
+        font-size: 1rem;
+    }
+
+    .customer-main{
+        margin-left: 10rem;
+        margin-right: 10rem;
+    }
+
+    .customer-1{
+        width: 9rem;
+    }
+    .customer-2{
+        width: 13rem;
+        margin-left: 6rem;
+    }
+    .customer-3{
+        width: 9rem;
+    }
+
+    .second-cus{
+        font-size: 0.7rem !important;
+    }
+
+    .name-customer p{
+        font-size: 0.6rem;
+        white-space: nowrap;
+    }
+
+    .back,
+    .forward{
+        width: 0.6rem;
+        height: 0.6rem;
+        padding: 0.7rem;
+    }
+
+    .back{
+        left: -2%;
+    }
+    .forward{
+        right: -2%;
+    }
+
+    .review-start p{
+        font-size: 0.7rem;
+    }
+
+    .main-media{
+        gap: 5rem;
+    }
+
+    .policies p{
+        white-space: normal;
+    }
+
+    .profile-img{
+        display: none;
+    }
+
+    .menu-icon{
+        padding-top: 0.6rem;
+        display: block;
+        height: 3rem; 
+        width: 3rem; 
+        color: #000000;
+    
+    }
+}
+
+@media(max-width:50rem){
+    .intro h1{
+        font-size: 2.4rem;
+    }
+
+    .hero-maping{
+        gap: 0rem;
+    }
+
+    .input-hero{
+        width: 17rem;
+    }
+
+    .look-home-btn{
+        height: 8rem;
+        width: 100%;
+    }
+
+    .look-home-btn h4{
+        font-size: 1rem;
+    }
+
+    .look-home-btn button{
+        padding: 0 0.4rem 0 0.4rem ;
+    }
+
+    .look-main h2{
+        font-size: 1.6rem;
+    }
+
+    .need-doctor-main h2{
+        font-size: 1.6rem;
+    }
+
+    .need-doctor-main p{
+        font-size: 1rem;
+    }
+
+    .tritment-doc p{
+        font-size: 0.9rem;
+    }
+
+    .how-work-main h2{
+        font-size: 1.8rem;
+        padding-left: 5rem;
+    }
+
+    .customer-main h2{
+        font-size: 1.3rem;
+    }
+
+    .city h2{
+        font-size: 1.5rem;
+    }
+
+    .doctors-cards{
+        grid-template-columns: repeat(3,1fr);
+    }
+
+    .city{
+        padding: 3rem;
+    }
+
+    .customer-main{
+        margin-left: 10rem;
+        margin-right: 10rem;
+    }
+
+    .customer-1{
+        width: 6rem;
+    }
+    .customer-2{
+        width: 11rem;
+        margin-left: 6rem;
+    }
+
+    .customer-img{
+        width: 3rem;
+        height: 3rem;
+    }
+
+    .name-customer strong{
+        font-size: 0.8rem;
+    }
+
+    .more-name-1-3 strong{
+        font-size: 0.7rem;
+    }
+    .customer-3{
+        width: 6rem;
+    }
+
+    .second-cus{
+        font-size: 0.7rem !important;
+    }
+
+    .name-customer p{
+        font-size: 0.5rem;
+        white-space: nowrap;
+    }
+
+    .love h6{
+        font-size: 1.2rem;
+    }
+
+    .main-icon .icon{
+        height: 1rem;
+        width: 1rem;
+    }
+
+    .love p{
+        font-size: 0.7rem;
+    }
+
+    .love{
+        gap: 2rem;
+    }
+
+    .main-p1{
+        font-size: 1rem;
+    }
+
+    .main-p2{
+        font-size: 0.9rem;
+    }
+
+    .work-main img{
+        height: 3rem;
+    }
+
+
+    .hr-2,.hr-1{
+        display: none;
+    }
+
+    .row-icon , .row-icon-2{
+        display: none;
+    }
+
+}
+
+@media(max-width:700px){
+    .lang{
+        display: none;
+    }
+
+    .intro h1{
+        padding-left: 3rem;
+        font-size: 1.9rem;
+        /* margin-bottom: -1rem; */
+        margin: 0;
+    }
+
+    .intro{
+        margin: 4rem 0 1rem 0;
+    }
+
+    .input-hero{
+        width: 15rem;
+        border-radius: 1rem;
+    }
+
+    .dir-doctor{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .look-home-btn{
+        height: 9rem;
+        width: 20rem;
+    }
+
+    .look-main h2{
+        text-align: center;
+        margin-left: -6rem;
+        font-size: 1.6rem;
+    }
+
+    .doctors-cards{
+        grid-template-columns: repeat(2,1fr);
+    }
+
+    .need-doctor-main h2{
+        text-align: center;
+    }
+
+    .need-doctor-main p{
+        text-align: center;
+    }
+
+    .how-work-icon{
+        flex-direction: column;
+    }
+
+    .work-main img{
+        height: 7rem;
+    }
+
+    .main-p2{
+        font-size: 1.3rem;
+    }
+
+    .more-customer-card{
+        flex-direction: column;
+    }
+
+    .love{
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .customer-main{
+        padding: 0;
+    }
+
+    .review-start{
+        justify-content: center;
+    }
+
+    .customer-main h2{
+        font-size: 1.5rem;
+    }
+
+    .love p{
+        font-size: 1rem;
+        line-height: 2rem;
+    }
+
+
+    .customer-1{
+        width: 100%;
+    }
+    .customer-2{
+        width: 13rem;
+        /* margin-left: 6rem; */
+    }
+
+    .customer-img{
+        width: 3rem;
+        height: 3rem;
+    }
+
+    .name-customer strong{
+        font-size: 0.8rem;
+    }
+
+    .more-name-1-3 strong{
+        font-size: 0.7rem;
+    }
+    .customer-3{
+        width: 14rem;
+    }
+
+    .second-cus{
+        font-size: 0.7rem !important;
+    }
+
+   
+
+    .city{
+        padding: 0;
+    }
+
+    .city-7{
+        margin: 0;
+    }
+
+    .app-play{
+        margin-right: -13rem;
+    }
+
+
+    .main-footer{
+        padding: 0; 
+    }
+    
+    .main-media{
+        margin: 0;
+        padding: 0;
+       
+    }
+    
+    .cities{
+        grid-template-columns: repeat(2,1fr);
+        padding: 0;
+    }
+}
+
+
+
+
+
